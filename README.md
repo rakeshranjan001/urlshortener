@@ -1,4 +1,4 @@
-# urlshortener
+# url shortener
 
 - Capable of generating shorter urls of length 6.
 
